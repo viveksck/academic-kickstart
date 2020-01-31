@@ -67,6 +67,10 @@ email: "viveksck@stanford.edu"
 #- Visitors
 ---
 
-I am a post-doctoral research scholar at [Stanford](http://stanford.edu) advised by [Prof. Dan Jurafsky](http://web.stanford.edu/~jurafsky) and [Prof. Daniel McFarland](http://ed.stanford.edu/faculty/mcfarland). My research interests are at the intersection of natural language processing and computational social science. In particular, I am focused on making NLP models human-centric, socially aware, robust amd fair. I am also interested in applying NLP methods to uncover social biases through the lens of natural language.
+I am a post-doctoral research scholar at [Stanford](http://stanford.edu) advised by [Prof. Dan Jurafsky](http://web.stanford.edu/~jurafsky) and [Prof. Daniel McFarland](http://ed.stanford.edu/faculty/mcfarland). My research interests are at the intersection of natural language processing and computational social science. In particular, I am focused on making NLP models human-centric, socially aware, robust and fair. I am also interested in applying NLP methods to uncover social biases through the lens of natural language.
 
 To know more about my research, please see my [Research Statement](files/research_statement.pdf), and [CV](files/cv.pdf).
+
+Latest News:
+Upcoming talk scheduled at University of Arizona!
+Upcoming talk scheduled at Penn State!
