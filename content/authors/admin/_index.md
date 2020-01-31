@@ -71,8 +71,5 @@ I am a post-doctoral research scholar at [Stanford](http://stanford.edu) advised
 
 To know more about my research, please see my [Research Statement](files/research_statement.pdf), and [CV](files/cv.pdf).
 
-## Latest News:
 1. Upcoming talk scheduled at University of Arizona!
-
-
 2. Upcoming talk scheduled at Penn State!
